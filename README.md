@@ -1,5 +1,37 @@
 # 💫 About Me:
-Junior Jeconia<br><br>Frontend-leaning Full-Stack Developer · Practical Web Builder · Tech Enthusiast<br><br>I build clean, fast, user-focused web products and deploy them end-to-end.<br>My work sits at the intersection of UI polish, real-world functionality, and simple deployment pipelines.<br><br>⚙️ What I Do<br><br>Design and ship responsive web interfaces<br><br>Connect frontends to real backends (auth, storage, data)<br><br>Deploy production-ready apps (serverless / managed backends)<br><br>Optimize UX, performance, and accessibility<br><br>Turn ideas into usable platforms<br><br>🧰 Tech Stack<br><br>Frontend<br>HTML · CSS · JavaScript · React · Vite <br><br>Backend / Data<br>Supabase · PostgreSQL · REST APIs<br><br>Deployment / Tools<br>Vercel · Git · GitHub · Docker (basic)<br><br>Other Interests<br>PC hardware · performance tuning · gaming systems<br><br>🚀 Current Focus<br><br>Full-stack SaaS-style web apps<br><br>Auth + subscriptions + content delivery flows<br><br>Clean UI systems and component structure<br><br>Simple, reliable deployment architecture<br><br>🧪 Build Philosophy<br><br>Keep architecture minimal and understandable<br><br>Prefer managed infrastructure over heavy ops<br><br>Ship fast → refine with real usage<br><br>UX clarity over visual noise<br><br>Practical solutions > theoretical complexity<br><br>📂 Projects<br><br>(Pin your best repos here — quality over quantity)<br><br>Web platforms with auth + database<br><br>Media/content delivery interfaces<br><br>UI-focused frontend builds<br><br>Deployment-ready full-stack apps<br><br>📫 Contact<br><br>GitHub: https://github.com/harshbix<br><br>Portfolio: jeconiajunior.vercel.app<br><br>Email: juniorjeconia@icloud.com<br><br>⚡ About Me<br><br>Developer from Tanzania focused on building useful, accessible web tools.<br>I like turning ideas into working products and learning by shipping.
+Junior Jeconia
+Frontend-leaning Full-Stack Developer · Web Builder · Tech Enthusiast
+
+I build fast, user-focused web apps and ship them end-to-end — from UI to backend to deployment.
+
+⚙️ What I Do
+
+Responsive interfaces
+
+Frontend ↔ backend integration (auth, data, storage)
+
+Production deployments
+
+UX & performance optimization
+
+🧰 Stack
+Frontend: HTML · CSS · JavaScript · React · Vite
+Backend/Data: Supabase · PostgreSQL · APIs
+Deploy/Tools: Vercel · Git · Docker (basic)
+
+🚀 Focus
+Full-stack SaaS apps · Auth/subscriptions · Clean UI systems · Simple deployments
+
+📂 Projects
+Auth + database platforms · Content/media apps · UI builds
+
+📫 Contact
+GitHub: https://github.com/harshbix
+
+Portfolio: jeconiajunior.vercel.app
+Email: juniorjeconia@icloud.com
+
+⚡ Developer from Tanzania building practical, accessible web products.
 
 
 ## 🌐 Socials:
