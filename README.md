@@ -23,7 +23,7 @@ Auth + database platforms · Content/media apps · UI builds
 📫 Contact
 GitHub: https://github.com/harshbix
 
-Portfolio: jeconiajunior.vercel.app
+Portfolio: <a>jeconiajunior.vercel.app</a>
 Email: juniorjeconia@icloud.com
 
 ⚡ Developer from Tanzania building practical, accessible web products.
