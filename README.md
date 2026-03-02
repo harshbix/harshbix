@@ -1,32 +1,25 @@
 # 💫 About Me:
 Junior Jeconia
-Frontend-leaning Full-Stack Developer · Web Builder · Tech Enthusiast
+Frontend-leaning Full-Stack Developer · Web Builder
 
-I build fast, user-focused web apps and ship them end-to-end — from UI to backend to deployment.
+I build fast, user-focused web apps from UI to backend to deployment.
 
-⚙️ What I Do
+What I Do
+Responsive UIs · Frontend–backend integration · Deployments · UX/performance
 
-Responsive interfaces
+Focus
+SaaS apps · Auth/subscriptions · Clean UI · Simple architecture
 
-Frontend ↔ backend integration (auth, data, storage)
+Projects
+Auth/data platforms · Content apps · UI builds
 
-Production deployments
-
-UX & performance optimization
-
-🚀 Focus
-Full-stack SaaS apps · Auth/subscriptions · Clean UI systems · Simple deployments
-
-📂 Projects
-Auth + database platforms · Content/media apps · UI builds
-
-📫 Contact
+Contact
 GitHub: https://github.com/harshbix
 
-Portfolio: <a>jeconiajunior.vercel.app</a>
+Portfolio: jeconiajunior.vercel.app
 Email: juniorjeconia@icloud.com
 
-⚡ Developer from Tanzania building practical, accessible web products.
+Developer from Tanzania building practical web products.
 
 
 ## 🌐 Socials:
